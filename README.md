@@ -1,0 +1,3 @@
+# Bitcoin-miners
+Bitcoin miners were hijacked and their BTC rewards redirected to an attacker
+https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker
